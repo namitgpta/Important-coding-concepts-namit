@@ -2,7 +2,7 @@ package Java_Programs;
 
 import java.lang.reflect.Field;
 
-public class AutoBot_StringTranslator_Java {
+public class AutoBot_StringTranslator_YT {
 
     /*
     * String Language Translator
